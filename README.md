@@ -20,3 +20,4 @@ UKLJUCENO GRADIVO:
  
 	- lekcije iz grupe A -> cubemaps
 	
+Graficka scena je testirana na Linux sistemu.
