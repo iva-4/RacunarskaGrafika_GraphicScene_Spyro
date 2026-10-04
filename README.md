@@ -8,18 +8,5 @@ KONTROLE:
  
 	- ukljucivanje lampe -> drzanje E
 
-UKLJUCENO GRADIVO:
-
-	- obavezne lekcije -> 1-7 nedelja, blending, face culling, advanced lighting
-
- 		*blending - implementiran nad dijamantima i portalu
- 
-		*face culling - implementiran na portalu
-
-  		*advanced lighting - implementiran na pointLight-
-  
-	- model
- 
-	- lekcije iz grupe A -> cubemaps
 	
 Graficka scena je testirana na Linux sistemu.
